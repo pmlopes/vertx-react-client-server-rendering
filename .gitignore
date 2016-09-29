@@ -1,0 +1,7 @@
+node_modules
+target
+.idea
+app.js
+app.js.map
+*.iml
+.vertx
